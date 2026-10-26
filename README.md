@@ -16,7 +16,7 @@
 
 ```sh
 git clone https://github.com/<github-username>/dsh-ark-plan
-dsh plugin --profile desktop add <dsh-ark-plan>
+dsh plugin --profile desktop add ./dsh-ark-plan
 ```
 
 或安装后使用 `plugin_manager` 的 `install_bundle` 指向目录。安装后自动生效；替换新版本时把该行禁用再启用即可加载新代码。
