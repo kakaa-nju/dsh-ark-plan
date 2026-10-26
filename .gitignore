@@ -1,0 +1,22 @@
+# Dependencies (the DSH runtime supplies the peer packages)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# DSH profiles / runtime state kept out of the repo
+~/.dsh/.credentials.yaml
+profiles/
+
+# Only lock a pinned environment, never a dev lockfile's content
+*.dump
+
+# Whatever was scraped from the machine while testing
+_probe/
+__tests__/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

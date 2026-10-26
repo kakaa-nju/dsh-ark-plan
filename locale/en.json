@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Volcengine Ark Agent Plan",
+    "description": "Syncs the Ark Agent Plan model catalog into the llm-pi-ai provider and shows 5-hour, daily, weekly and monthly AFP quotas."
+  }
+}

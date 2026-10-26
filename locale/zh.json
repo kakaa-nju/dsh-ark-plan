@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "方舟 Agent Plan",
+    "description": "把火山方舟 Agent Plan 的模型目录自动同步到 llm-pi-ai Provider，并显示 5 小时、每日、每周、每月的 AFP 额度用量。"
+  }
+}

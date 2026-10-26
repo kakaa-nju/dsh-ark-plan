@@ -1,0 +1,4 @@
+# dsh-ark-plan bundle patch: mounts the Ark Agent Plan row (host + browser halves).
+- insert:
+    - id: ark-plan
+      name: dsh-ark-plan
